@@ -1,0 +1,33 @@
+h1 {
+    color:#4d4f53;
+}
+.cls {
+    color:gray;
+    font-size: 12px;
+}
+a {
+    color: #4d4f53;
+    text-decoration: none;
+}
+p {
+    text-indent: 35px;
+    line-height: 40px;
+}
+#pauthor {
+    text-align: right;
+}
+div {
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box; /* 指定width height为盒子的高宽 */
+    /* background-color: aquamarine;背景色 */
+
+    /* padding: 0 auto;内边距 上右下左 */
+    /* border: 1px solid red;边框 宽度 线条类型 颜色 */
+    margin: 0 auto;/* 外边距 上右下左 */
+}
+#center {
+    width: 65%;
+    margin: 0 auto;
+
+}
